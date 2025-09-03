@@ -1,0 +1,1 @@
+Size and mass are important characteristics of any spacecraft structure that often must comply to the compact configuration. This study was conducted to find the effects of size or dimensions of the boom and its assembly on the stored strain energy of Lenticular Deployable Composite boom. These booms utilise stored strain energy to deploy itslef. 
